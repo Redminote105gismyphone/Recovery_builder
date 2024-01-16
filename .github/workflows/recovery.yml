@@ -48,3 +48,4 @@ jobs:
           tag_name: ${{ github.run_id }}
           name: recovery image
           files: work/recovery.zip
+          runs-on: self-hosted
