@@ -1,0 +1,8 @@
+MAINFEST: https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp.git
+DEVICE: camellia
+DT_LINK: https://github.com/dm700-devs/twrp_device_xiaomi_camellia/tree/android-12.1
+DT_PATH: device/xiaomi/camellia
+TARGET: bootimage
+BUILD: boot
+OT: TWRP
+TZ: Europe/London
